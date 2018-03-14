@@ -1,0 +1,22 @@
+body{
+  font-family:arial;
+  margin:10px;
+  
+}
+.start{
+  background-color:IndianRed;
+  text-align:center;
+  color:white;
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+h2{
+  text-align:center;
+  color:orange;
+}
+p{
+  color:grey;
+  text-align:center;
+}

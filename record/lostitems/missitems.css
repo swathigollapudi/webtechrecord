@@ -1,0 +1,26 @@
+a{
+  color:blue;
+  text-decoration:none;
+  padding:5px;
+  font-size:15px;
+  font-family:arial;
+}
+body{
+  background-color:white;
+  margin:0px;
+  font-family:arial;
+}
+.top{
+  background-color:IndianRed;
+  text-align:center;
+  color:white;
+}
+a:link{
+  text-decoration:none;
+  color:blue;
+}
+img{
+   width:25%;
+   height:25%;
+}
+

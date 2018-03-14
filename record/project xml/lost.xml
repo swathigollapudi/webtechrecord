@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="lost.xsl"type="text/xsl" ?>
+<!DOCTYPE lostitem [
+<!ELEMENT lostitem (#PCDATA)>
+<!ELEMENT itemname (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Questions (#PCDATA)>
+<!ELEMENT Contactinfo (#PCDATA)>
+]>
+<lostitem>
+<item>
+    <itemname>mobile phone</itemname>
+    <type>Electronic gadget</type>
+    <Description>The mobile colour is white it is 5 inches height 
+                 and 3.7 inches width,it has finger print sensor 
+                 and model name is samsung s7 max </Description>
+    <Questions>what is the company of mobile you lost? ,Samsung</Questions>
+    <Contactinfo>P.srinivas,abc street,Gandhi nagar,Bhimavaram</Contactinfo>
+</item>
+<item>
+    <itemname>ear phones</itemname>
+    <type>Electronic gadget</type>
+    <Description>The ear phones are white colour </Description>
+    <Questions>what is the company of ear phones you lost? ,Boat</Questions>
+    <Contactinfo>P.samyual,xyz street,Gagiipet ,Hyderabad</Contactinfo>
+</item>
+<item>
+    <itemname>lap top</itemname>
+    <type>Electronic gadget </type>
+    <Description> It is silver in colour,it is  360 degree rotatable</Description>
+    <Questions>what is the company of lap top you lost? ,Dell</Questions>
+    <Contactinfo>Pallavi,unik street,T-nagar,Banglore</Contactinfo>
+</item>
+
+</lostitem>
+
+
